@@ -1,4 +1,4 @@
-# **LeNet-5 from Scratch: Architectural Insights on MNIST and CIFAR-10**
+# ***LeNet-5 from Scratch: Analysis on MNIST and CIFAR-10***
 This project implements LeNet-5 from scratch in PyTorch using custom-built layers, and analyzes model's behavior across two datasets of varying complexity: MNIST and CIFAR-10.
 Analysis focuses on differences in generalization behavior, the impact of pooling operations, and feature map visualization of patterns learned by convolutional layers.
 Additionally, misclassified examples are examined to identify common error patterns and highlight weaknesses in the model’s predictions.
