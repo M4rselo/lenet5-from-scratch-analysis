@@ -40,4 +40,11 @@ Additionally, misclassified examples are examined to identify common error patte
 *Full, detailed conclusions are available at the end of the notebook.*
 
 ## Notebook
+
 `lenet5_from_scratch_analysis.ipynb`
+
+## References
+ - **MNIST:** Yann LeCun et al., *Gradient-based learning applied to document recognition*, 1998.
+ - **LeNet-5**: Yann LeCun et al., *Gradient-based learning applied to document recognition*, 1998.
+ - **CIFAR-10:** Alex Krizhevsky, *Learning Multiple Layers of Features from Tiny Images*, 2009.
+
